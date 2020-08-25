@@ -8,7 +8,7 @@ the sets, and the patients in each set have similar distributions (similar amoun
 Similarity between probability distribution of splits, is determined by the Jensen-Shannon distance.
 
 
-#Usage:
+# Usage
 ```python
 # df:
 # --- image_id --- group_id ----
